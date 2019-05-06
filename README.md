@@ -1,5 +1,8 @@
 # Purpose
-This repo provides a short `.ipynb` tutorial for loading and visualizing the CARLA data from the PRECOG paper: https://arxiv.org/pdf/1905.01296.pdf 
+This repo provides a short `.ipynb` tutorial for loading and visualizing the CARLA data from the PRECOG paper. 
+
+Paper pdf link: https://arxiv.org/pdf/1905.01296.pdf 
+Project page link: https://sites.google.com/view/precog
 
 # CARLA Town01 Data:
 Here's a link to the dataset we used for training and evaluating our approach on CARLA Town01 (see Appendix for experiment details)
