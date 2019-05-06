@@ -1,7 +1,7 @@
 # Purpose
 This repo provides a short `.ipynb` tutorial for loading and visualizing the CARLA data from the PRECOG paper. 
 
-Paper pdf link: https://arxiv.org/pdf/1905.01296.pdf 
+Paper pdf link: https://arxiv.org/pdf/1905.01296.pdf<br>
 Project page link: https://sites.google.com/view/precog
 
 # CARLA Town01 Data:
