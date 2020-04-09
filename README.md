@@ -9,6 +9,8 @@ Visualizations on <a href="https://www.nuscenes.org/">nuScenes</a> data:
 ![Visualization video](http://www.cs.cmu.edu/~nrhineha/img/precog_5-10s.gif)
 ![Visualization video](http://www.cs.cmu.edu/~nrhineha/img/precog_10-15s.gif)
 
+# Code
+Link to PRECOG implementation code: [https://github.com/nrhine1/precog](https://github.com/nrhine1/precog)
 
 # CARLA Town01 Data:
 Here's a link to the dataset we used for training and evaluating our approach on CARLA Town01 (see Appendix for experiment details)
